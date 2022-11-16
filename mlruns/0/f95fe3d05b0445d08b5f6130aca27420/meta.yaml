@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ninasandhorup/OneDrive/Nina/Uni/ITU/Big_Data/Assignment_3/BigData_MLflow/mlruns/0/f95fe3d05b0445d08b5f6130aca27420/artifacts
+end_time: 1668509318301
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f95fe3d05b0445d08b5f6130aca27420
+run_name: efficient-doe-125
+run_uuid: f95fe3d05b0445d08b5f6130aca27420
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668509310877
+status: 3
+tags: []
+user_id: ninasandhorup
